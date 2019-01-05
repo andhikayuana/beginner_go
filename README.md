@@ -1,5 +1,5 @@
 # beginner_go
-begginer go language
+beginner go language
 
 ## Contents
 1. [hello.go](hello/hello.go)
