@@ -10,6 +10,7 @@ declare -a files=(
     "go-interfaces"
     "type-casting"
     "fibonanci"
+    "factorial"
 )
 
 function run() {

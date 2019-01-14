@@ -9,6 +9,7 @@ beginner go language
 5. [go-interfaces](go-interfaces/go-interfaces.go)
 6. [type-casting](type-casting/type-casting.go)
 7. [fibonanci](fibonanci/fibonanci.go)
+8. [factorial](factorial/factorial.go)
 
 ## RUN
 please execute `run.sh` file
