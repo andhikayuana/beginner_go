@@ -7,6 +7,7 @@ declare -a files=(
     "return-multiple-val"
     "type-switch"
     "error-handling"
+    "go-interfaces"
 )
 
 function run() {
