@@ -9,6 +9,7 @@ declare -a files=(
     "error-handling"
     "go-interfaces"
     "type-casting"
+    "fibonanci"
 )
 
 function run() {
