@@ -6,6 +6,7 @@ declare -a files=(
     "hello" 
     "return-multiple-val"
     "type-switch"
+    "error-handling"
 )
 
 function run() {
