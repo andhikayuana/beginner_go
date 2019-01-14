@@ -8,6 +8,7 @@ declare -a files=(
     "type-switch"
     "error-handling"
     "go-interfaces"
+    "type-casting"
 )
 
 function run() {
