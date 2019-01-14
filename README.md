@@ -10,6 +10,7 @@ beginner go language
 6. [type-casting](type-casting/type-casting.go)
 7. [fibonanci](fibonanci/fibonanci.go)
 8. [factorial](factorial/factorial.go)
+9. [delete-functions](delete-functions/delete-functions.go)
 
 ## RUN
 please execute `run.sh` file

@@ -11,6 +11,7 @@ declare -a files=(
     "type-casting"
     "fibonanci"
     "factorial"
+    "delete-functions"
 )
 
 function run() {
